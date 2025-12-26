@@ -43,5 +43,5 @@ Developed using **Python** and **Streamlit**, it provides a sleek, intuitive das
 
 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/your-username/smart-workplace-ai-assistant.git
+git clone https://github.com/mukesh17804/smart-workplace-ai-assistant.git
 cd smart-workplace-ai-assistant
